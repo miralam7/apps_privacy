@@ -1,6 +1,6 @@
 
 # Datenschutzerklärung
-**Letzter Stand: 07. September 2024**
+**Letzter Stand: 11. September 2024**
 
 ## 1. Allgemeine Informationen
 Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese App ist eine private Anwendung, die nur von einer bestimmten Benutzergruppe genutzt werden kann. In dieser Datenschutzerklärung erläutern wir, welche Daten in der App erfasst, verarbeitet und gespeichert werden.
@@ -24,7 +24,7 @@ Bei Fragen zum Datenschutz oder zur Nutzung Ihrer Daten können Sie uns jederzei
 ---
 
 # Privacy Policy
-**Last updated: September 07, 2024**
+**Last updated: September 11, 2024**
 
 ## 1. General Information
 We take the protection of your personal data very seriously. This app is a private application that can only be used by a specific group of users. In this privacy policy, we explain what data is collected, processed, and stored within the app.
