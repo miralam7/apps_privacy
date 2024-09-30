@@ -19,7 +19,7 @@ Wir setzen geeignete technische und organisatorische Maßnahmen ein, um Ihre Dat
 Bei Fragen zum Datenschutz oder zur Nutzung Ihrer Daten können Sie uns jederzeit kontaktieren:
 
 **Kontaktinformationen:**
-- E-Mail: info@mir7.com
+- E-Mail: info@mir7.de
 
 ---
 
@@ -43,4 +43,4 @@ We employ appropriate technical and organizational measures to protect your data
 If you have any questions regarding data privacy or the use of your data, feel free to contact us:
 
 **Contact Information:**
-- Email: info@mir7.com
+- Email: info@mir7.de
